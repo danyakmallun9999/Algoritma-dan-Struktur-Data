@@ -1,1 +1,2 @@
-# genap_struktur_data
+# Algoritma dan Struktur Data
+## Mata kuliah TIF Unisnu Jepara ( semester genap )
